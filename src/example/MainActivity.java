@@ -8,7 +8,7 @@ public class MainActivity {
 		// TODO Auto-generated method stub
 		Add a = new Add();
 		a.cal();
-		System.out.print("计算结果为：");
+		System.out.print("The answer is:");
 		a.show();
 	}
 }
