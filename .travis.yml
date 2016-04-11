@@ -1,1 +1,5 @@
-language:java
+language: JAVA
+
+xcode_project: com.my
+
+xcode_scheme: ""
